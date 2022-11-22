@@ -85,7 +85,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.MyViewHolder>{
             itemView.setOnClickListener(this);
         }
 
-
         public void setData(Note n, int pos)
         {
             tvTitle.setText(n.getTitleNote());
