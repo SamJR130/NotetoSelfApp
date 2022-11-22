@@ -16,6 +16,11 @@ public class Database {
         return allNotes;
     }
 
+    public static void addNote(String title, String status, String description)
+    {
+        allNotes.add(new Note(title, status, description));
+    }
+
     private static void loadData() {
         allNotes = new ArrayList<>();
         ArrayList<String> title = new ArrayList<>();

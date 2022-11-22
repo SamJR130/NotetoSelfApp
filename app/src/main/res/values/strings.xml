@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Note to Self App</string>
+    <string name="note">Note</string>
+    <string name="description">Description</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="statuses">
+    <item>Important</item>
+        <item>To Do</item>
+        <item>Idea</item>
+    </string-array>
 </resources>

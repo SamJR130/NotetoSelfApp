@@ -6,6 +6,8 @@
         <entry key="..\:/Users/Student/AndroidStudioProjects/NotetoSelfApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/NotetoSelfApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/NotetoSelfApp/app/src/main/res/layout/activity_main.xml" value="0.1956521739130435" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/NotetoSelfApp/app/src/main/res/layout/dialog_new_note.xml" value="0.22" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/NotetoSelfApp/app/src/main/res/layout/dialogue_show_note.xml" value="0.1956521739130435" />
         <entry key="..\:/Users/Student/AndroidStudioProjects/NotetoSelfApp/app/src/main/res/layout/layout_note_row.xml" value="0.1" />
       </map>
     </option>
@@ -15,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1956521739130435" />
+      </ProjectState>
+    </option>
   </component>
 </project>
